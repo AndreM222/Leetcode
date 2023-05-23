@@ -20,5 +20,5 @@ my knowledge and understanding.
 
 | #   | Title               | Solutions                                                 | Difficulty |
 | --- | ------------------- | --------------------------------------------------------- | ---------- |
-| 785 | Is Geaph Bipartite? | [C++](/Medium-Level/CPP-Solutions/Is-Geaph-Bipartite.cpp) | Medium     |
+| 785 | Is Graph Bipartite? | [C++](/Medium-Level/CPP-Solutions/Is-Geaph-Bipartite.cpp) | Medium     |
 | 1   | Two Sum             | [C++](/Easy-Level/CPP-Solutions/Two-Sums.cpp)             | Easy       |
