@@ -18,7 +18,8 @@ my knowledge and understanding.
 
 <img align="right" src="https://media.giphy.com/media/hTlYvDvLU7qnVbv0Qq/giphy.gif" width="200"/>
 
-| #   | Title               | Solutions                                                 | Difficulty |
-| --- | ------------------- | --------------------------------------------------------- | ---------- |
-| 785 | Is Graph Bipartite? | [C++](/Medium-Level/CPP-Solutions/Is-Geaph-Bipartite.cpp) | Medium     |
-| 1   | Two Sum             | [C++](/Easy-Level/CPP-Solutions/Two-Sums.cpp)             | Easy       |
+| #    | Title                 | Solutions                                                  | Difficulty |
+| ---- | --------------------- | ---------------------------------------------------------- | ---------- |
+| 785  | Is Graph Bipartite?   | [C++](/Medium-Level/CPP-Solutions/Is-Geaph-Bipartite.cpp)  | Medium     |
+| 1    | Two Sum               | [C++](/Easy-Level/CPP-Solutions/Two-Sums.cpp)              | Easy       |
+| 1203 | Design Parking System | [C++](/Easy-Level/CPP-Solutions/Design-Parking-System.cpp) | Easy       |
