@@ -21,5 +21,6 @@ my knowledge and understanding.
 | #    | Title                 | Solutions                                                  | Difficulty |
 | ---- | --------------------- | ---------------------------------------------------------- | ---------- |
 | 785  | Is Graph Bipartite?   | [C++](/Medium-Level/CPP-Solutions/Is-Geaph-Bipartite.cpp)  | Medium     |
+| 2    | Add Two Numbers       | [C++](/Medium-Level/CPP-Solutions/Add-Two-Numbers.cpp)     | Medium     |
 | 1    | Two Sum               | [C++](/Easy-Level/CPP-Solutions/Two-Sums.cpp)              | Easy       |
 | 1203 | Design Parking System | [C++](/Easy-Level/CPP-Solutions/Design-Parking-System.cpp) | Easy       |
