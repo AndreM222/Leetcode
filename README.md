@@ -16,9 +16,9 @@ This repository contain leetcode challenges answers which I came up with using C
 In order to grow and achieve my dream I take as many challenges as possible and projects to grow
 my knowledge and understanding.
 
-<h2>Levels</h2>
-
 <img align="right" src="https://media.giphy.com/media/hTlYvDvLU7qnVbv0Qq/giphy.gif" width="200"/>
+
+<h2>Levels</h2>
 
 <!--toc:start-->
 - [Medium](#medium)
