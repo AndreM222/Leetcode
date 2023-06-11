@@ -18,12 +18,12 @@ my knowledge and understanding.
 
 <h2>Levels</h2>
 
+<img align="right" src="https://media.giphy.com/media/hTlYvDvLU7qnVbv0Qq/giphy.gif" width="200"/>
+
 <!--toc:start-->
 - [Medium](#medium)
 - [Easy](#easy)
 <!--toc:end-->
-
-<img align="right" src="https://media.giphy.com/media/hTlYvDvLU7qnVbv0Qq/giphy.gif" width="200"/>
 
 ## Medium
 
