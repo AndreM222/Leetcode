@@ -10,20 +10,28 @@
 
 &nbsp;
 
-## About
+<h2>About</h2>
 
 This repository contain leetcode challenges answers which I came up with using C++.
 In order to grow and achieve my dream I take as many challenges as possible and projects to grow
 my knowledge and understanding.
 
+<h2>Levels</h2>
+
+<!--toc:start-->
+- [Medium](#medium)
+- [Easy](#easy)
+<!--toc:end-->
+
 <img align="right" src="https://media.giphy.com/media/hTlYvDvLU7qnVbv0Qq/giphy.gif" width="200"/>
 
 ## Medium
 
-| #   | Title               | Solutions                                                 | Difficulty |
-| --- | ------------------- | --------------------------------------------------------- | ---------- |
-| 2   | Add Two Numbers     | [C++](/Medium-Level/CPP-Solutions/Add-Two-Numbers.cpp)    | Medium     |
-| 785 | Is Graph Bipartite? | [C++](/Medium-Level/CPP-Solutions/Is-Geaph-Bipartite.cpp) | Medium     |
+| #    | Title                                                   | Solutions                                                                                      | Difficulty |
+| ---- | ------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ---------- |
+| 2    | Add Two Numbers                                         | [C++](/Medium-Level/CPP-Solutions/Add-Two-Numbers.cpp)                                         | Medium     |
+| 785  | Is Graph Bipartite?                                     | [C++](/Medium-Level/CPP-Solutions/Is-Geaph-Bipartite.cpp)                                      | Medium     |
+| 1689 | Partitioning Into Minimum Number Of Deci-Binary Numbers | [C++](/Medium-Level/CPP-Solutions/Partitioning-Into-Minimum-Number-Of-Deci-Binary-Numbers.cpp) | Medium     |
 
 ## Easy
 
