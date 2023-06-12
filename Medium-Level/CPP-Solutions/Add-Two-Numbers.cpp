@@ -28,7 +28,7 @@ class Solution
         // else it means there are still values
 
         /* get total value, if one of the list is null then return 0 and add everything together
-        with the carry */
+         * with the carry */
         int total = (l1 ? l1->val : 0) + (l2 ? l2->val : 0) + carry;
 
         // We creat the head node and value becomes the total minus the 10th place
@@ -36,7 +36,7 @@ class Solution
 
         // We start creating the tails with the carry being the 10th place of the total
         /* if current is null then return null since, else return what comes next wich
-        can be a value or null */
+         * can be a value or null */
         node->next = tempList(l1 ? l1->next : NULL, l2 ? l2->next : NULL, total / 10);
 
         return node;

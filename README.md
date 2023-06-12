@@ -1,6 +1,6 @@
 <h1 align="center">Leetcode <img width="50" align="center" justify="center" src="doc/Leetcode-Icon.png"></h1>
 
-"If you only do what you can do, you will never be more than who you are."
+*"If you only do what you can do, you will never be more than who you are."*
 
 <div align="right" margin="2">
     - Kung Fu Panda: Master Shifu &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -32,6 +32,7 @@ my knowledge and understanding.
 | 2    | Add Two Numbers                                         | [C++](/Medium-Level/CPP-Solutions/Add-Two-Numbers.cpp)                                         | Medium     |
 | 785  | Is Graph Bipartite?                                     | [C++](/Medium-Level/CPP-Solutions/Is-Geaph-Bipartite.cpp)                                      | Medium     |
 | 1689 | Partitioning Into Minimum Number Of Deci-Binary Numbers | [C++](/Medium-Level/CPP-Solutions/Partitioning-Into-Minimum-Number-Of-Deci-Binary-Numbers.cpp) | Medium     |
+| 1476 | Subrectangle Queries                                    | [C++](/Medium-Level/CPP-Solutions/Subrectangle-Queries.cpp)                                    | Medium     |
 
 ## Easy
 

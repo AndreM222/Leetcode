@@ -15,16 +15,16 @@ private:
                 // If untoched
 
                 /* Setup current content equal to 1 - current content
-                If current 1 then connection be 0
-                if current 0 then connection becomes -1 so next loop is 1 */
+                 * If current 1 then connection be 0
+                 * if current 0 then connection becomes -1 so next loop is 1 */
                 partition[i] = 1 - partition[curr];
 
                 /* Check if current content is partition
-                else if not then return false */
+                 * else if not then return false */
                 if(!bipart(i, graph, partition)) return false;
             }    
             /* If not untoched then check if connection is not same as content
-            return false if true since it's a loop */
+             * return false if true since it's a loop */
             else if(partition[i] == partition[curr]) return false;
         }
         return true;
@@ -36,9 +36,8 @@ public:
         int length = graph.size();
 
         /* Separate into different partitions
-        Set all negative ones to tell is untoched */
+         * Set all negative ones to tell is untoched */
         vector<int> partition(length, -1);
-        
         // Parse through the array
         for(int i = 0; i < length; i++) 
         {

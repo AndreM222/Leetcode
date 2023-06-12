@@ -16,7 +16,7 @@ public:
              *      3 - 0 = 3
              *      (51 - 48 = 3)
              * ------------------------------------]
-            */
+             */
             // Compare if greater then max, If so then update to greatest value
             if (i - '0' > total) total = i - '0';
         }
