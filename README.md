@@ -1,6 +1,6 @@
 <h1 align="center">Leetcode <img width="50" align="center" justify="center" src="doc/Leetcode-Icon.png"></h1>
 
-*"If you only do what you can do, you will never be more than who you are."*
+_"If you only do what you can do, you will never be more than who you are."_
 
 <div align="right" margin="2">
     - Kung Fu Panda: Master Shifu &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -21,9 +21,16 @@ my knowledge and understanding.
 <h2>Levels</h2>
 
 <!--toc:start-->
+- [Hard](#hard)
 - [Medium](#medium)
 - [Easy](#easy)
 <!--toc:end-->
+
+## Hard
+
+| #   | Title                       | Solutions                                                        | Difficulty |
+| --- | --------------------------- | ---------------------------------------------------------------- | ---------- |
+| 4   | Median of Two Sorted Arrays | [C++](/Hard-Level/CPP-Solutions/Median-of-Two-Sorted-Arrays.cpp) | Hard       |
 
 ## Medium
 
