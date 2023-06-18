@@ -1,10 +1,11 @@
 <h1 align="center">Leetcode <img width="50" align="center" justify="center" src="doc/Leetcode-Icon.png"></h1>
+<svg width="50" height="0">
+    <i>"If you only do what you can do, you will never be more than who you are."</i>
 
-_"If you only do what you can do, you will never be more than who you are."_
-
-<div align="right" margin="2">
+<div align="right">
     - Kung Fu Panda: Master Shifu &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 </div>
+</svg>
 
 &nbsp;
 
