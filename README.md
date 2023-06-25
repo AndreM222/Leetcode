@@ -30,6 +30,7 @@ my knowledge and understanding.
 | #   | Title                       | Solutions                                                        | Difficulty |
 | --- | --------------------------- | ---------------------------------------------------------------- | ---------- |
 | 4   | Median of Two Sorted Arrays | [C++](/Hard-Level/CPP-Solutions/Median-of-Two-Sorted-Arrays.cpp) | Hard       |
+| 25  | Reverse Nodes in k-Group    | [C++](/Hard-Level/CPP-Solutions/Reverse-Nodes-in-k-Group.cpp)    | Hard       |
 
 ## Medium
 
