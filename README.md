@@ -38,6 +38,7 @@ my knowledge and understanding.
 | ---- | ------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ---------- |
 | 2    | Add Two Numbers                                         | [C++](/Medium-Level/CPP-Solutions/Add-Two-Numbers.cpp)                                         | Medium     |
 | 785  | Is Graph Bipartite?                                     | [C++](/Medium-Level/CPP-Solutions/Is-Geaph-Bipartite.cpp)                                      | Medium     |
+| 1143 | Longest Common Subsequence                              | [C++](/Medium-Level/CPP-Solutions/Longest-Common-Subsequence.cpp)                              | Medium     |
 | 1476 | Subrectangle Queries                                    | [C++](/Medium-Level/CPP-Solutions/Subrectangle-Queries.cpp)                                    | Medium     |
 | 1689 | Partitioning Into Minimum Number Of Deci-Binary Numbers | [C++](/Medium-Level/CPP-Solutions/Partitioning-Into-Minimum-Number-Of-Deci-Binary-Numbers.cpp) | Medium     |
 
