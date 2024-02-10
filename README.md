@@ -47,6 +47,6 @@ my knowledge and understanding.
 | #    | Title                          | Solutions                                                           | Difficulty |
 | ---- | ------------------------------ | ------------------------------------------------------------------- | ---------- |
 | 1    | Two Sum                        | [C++](/Easy-Level/CPP-Solutions/Two-Sums.cpp)                       | Easy       |
-| 21   | Merge Two Sorted Lists         | [C++](/Hard-Level/CPP-Solutions/Merge-Two-Sorted-Lists.cpp)         | Hard       |
+| 21   | Merge Two Sorted Lists         | [C++](/Hard-Level/CPP-Solutions/Merge-Two-Sorted-Lists.cpp)         | Easy       |
 | 1203 | Design Parking System          | [C++](/Easy-Level/CPP-Solutions/Design-Parking-System.cpp)          | Easy       |
 | 1232 | Check If It Is a Straight Line | [C++](/Easy-Level/CPP-Solutions/Check-If-It-Is-a-Straight-Line.cpp) | Easy       |
