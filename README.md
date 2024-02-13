@@ -37,6 +37,7 @@ my knowledge and understanding.
 | #    | Title                                                   | Solutions                                                                                      | Difficulty |
 | ---- | ------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ---------- |
 | 2    | Add Two Numbers                                         | [C++](/Medium-Level/CPP-Solutions/Add-Two-Numbers.cpp)                                         | Medium     |
+| 135  | Copy List with Random Pointer                           | [C++](/Medium-Level/CPP-Solutions/Copy-List-With-Random-Pointer.cpp)                           | Medium     |
 | 785  | Is Graph Bipartite?                                     | [C++](/Medium-Level/CPP-Solutions/Is-Geaph-Bipartite.cpp)                                      | Medium     |
 | 1143 | Longest Common Subsequence                              | [C++](/Medium-Level/CPP-Solutions/Longest-Common-Subsequence.cpp)                              | Medium     |
 | 1476 | Subrectangle Queries                                    | [C++](/Medium-Level/CPP-Solutions/Subrectangle-Queries.cpp)                                    | Medium     |
@@ -44,9 +45,10 @@ my knowledge and understanding.
 
 ## Easy
 
-| #    | Title                          | Solutions                                                           | Difficulty |
-| ---- | ------------------------------ | ------------------------------------------------------------------- | ---------- |
-| 1    | Two Sum                        | [C++](/Easy-Level/CPP-Solutions/Two-Sums.cpp)                       | Easy       |
-| 21   | Merge Two Sorted Lists         | [C++](/Easy-Level/CPP-Solutions/Merge-Two-Sorted-Lists.cpp)         | Easy       |
-| 1203 | Design Parking System          | [C++](/Easy-Level/CPP-Solutions/Design-Parking-System.cpp)          | Easy       |
-| 1232 | Check If It Is a Straight Line | [C++](/Easy-Level/CPP-Solutions/Check-If-It-Is-a-Straight-Line.cpp) | Easy       |
+| #    | Title                                      | Solutions                                                                   | Difficulty |
+| ---- | ------------------------------------------ | --------------------------------------------------------------------------- | ---------- |
+| 1    | Two Sum                                    | [C++](/Easy-Level/CPP-Solutions/Two-Sums.cpp)                               | Easy       |
+| 21   | Merge Two Sorted Lists                     | [C++](/Easy-Level/CPP-Solutions/Merge-Two-Sorted-Lists.cpp)                 | Easy       |
+| 1203 | Design Parking System                      | [C++](/Easy-Level/CPP-Solutions/Design-Parking-System.cpp)                  | Easy       |
+| 1232 | Check If It Is a Straight Line             | [C++](/Easy-Level/CPP-Solutions/Check-If-It-Is-a-Straight-Line.cpp)         | Easy       |
+| 2108 | Find First Palindromic String in the Array | [C++](/Easy-Level/CPP-Solutions/Find-First-Palindromic-String-In-Array.cpp) | Easy       |
