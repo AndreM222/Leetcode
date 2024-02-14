@@ -1,3 +1,4 @@
+// This is O(n^2) solution
 class Solution
 {
 
@@ -30,5 +31,28 @@ class Solution
 
         // If no content then return nothing 
         return {};
+    }
+};
+
+// This is O(n) solution
+class Solution 
+{
+public:
+    vector<int> twoSum(vector<int>& nums, int target) 
+    {
+        unordered_map<int, int> container; // Create hashmap container
+
+        for(int i = 0; i < nums.size(); i++) // Loop through values
+        {
+            if(container.find(target - nums[i]) != container.end()) // If value found
+            {
+                return {container[target - nums[i]], i}; // return value using the key
+                // Target - the value in current is the value in the hashmap we are looking for
+            }
+
+            container[nums[i]] = i; // Else add to hasmap current
+        }
+
+        return {}; // If no content then return nothing
     }
 };
