@@ -38,7 +38,7 @@ my knowledge and understanding.
 | ---- | ------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ---------- |
 | 2    | Add Two Numbers                                         | [C++](/Medium-Level/CPP-Solutions/Add-Two-Numbers.cpp)                                         | Medium     |
 | 7    | Reverse Integer                                         | [C++](/Medium-Level/CPP-Solutions/Reverse-Integer.cpp)                                         | Medium     |
-| 98   | Validate Binary Search Tree                             | [C++](/Medium-Level/CPP-Solutions/Validate-Binary-Search-tree.cpp)                             | Medium     |
+| 98   | Validate Binary Search Tree                             | [C++](/Medium-Level/CPP-Solutions/Validate-Binary-Search-Tree.cpp)                             | Medium     |
 | 135  | Copy List with Random Pointer                           | [C++](/Medium-Level/CPP-Solutions/Copy-List-With-Random-Pointer.cpp)                           | Medium     |
 | 785  | Is Graph Bipartite?                                     | [C++](/Medium-Level/CPP-Solutions/Is-Geaph-Bipartite.cpp)                                      | Medium     |
 | 1143 | Longest Common Subsequence                              | [C++](/Medium-Level/CPP-Solutions/Longest-Common-Subsequence.cpp)                              | Medium     |
