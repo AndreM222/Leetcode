@@ -20,6 +20,7 @@ my knowledge and understanding.
 <h2>Levels</h2>
 
 <!--toc:start-->
+
 - [Hard](#hard)
 - [Medium](#medium)
 - [Easy](#easy)
@@ -30,6 +31,7 @@ my knowledge and understanding.
 | #   | Title                       | Solutions                                                        | Difficulty |
 | --- | --------------------------- | ---------------------------------------------------------------- | ---------- |
 | 4   | Median of Two Sorted Arrays | [C++](/Hard-Level/CPP-Solutions/Median-of-Two-Sorted-Arrays.cpp) | Hard       |
+| 10  | Regular Expression Matching | [C++](/Hard-Level/CPP-Solutions/regular-expression-matching.cpp) | Hard       |
 | 25  | Reverse Nodes in k-Group    | [C++](/Hard-Level/CPP-Solutions/Reverse-Nodes-in-k-Group.cpp)    | Hard       |
 
 ## Medium
@@ -40,6 +42,8 @@ my knowledge and understanding.
 | 3    | Longest Substring Without Repeating Characters          | [C++](/Medium-Level/CPP-Solutions/Longest-Substring-Without-Repeating-Characters.cpp)          | Medium     |
 | 5    | Longest Palindromic Number                              | [C++](/Medium-Level/CPP-Solutions/Longest-Palindromic-Number.cpp)                              | Medium     |
 | 7    | Reverse Integer                                         | [C++](/Medium-Level/CPP-Solutions/Reverse-Integer.cpp)                                         | Medium     |
+| 8    | String to Integer (atoi)                                | [C++](/Medium-Level/CPP-Solutions/String-To-Integer.cpp)                                       | Medium     |
+| 11   | Container With Most Water                               | [C++](/Medium-Level/CPP-Solutions/Conteiner-With-Most-Water.cpp)                               | Medium     |
 | 98   | Validate Binary Search Tree                             | [C++](/Medium-Level/CPP-Solutions/Validate-Binary-Search-Tree.cpp)                             | Medium     |
 | 135  | Copy List with Random Pointer                           | [C++](/Medium-Level/CPP-Solutions/Copy-List-With-Random-Pointer.cpp)                           | Medium     |
 | 785  | Is Graph Bipartite?                                     | [C++](/Medium-Level/CPP-Solutions/Is-Geaph-Bipartite.cpp)                                      | Medium     |
