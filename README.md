@@ -58,6 +58,7 @@ my knowledge and understanding.
 | ---- | ------------------------------------------ | --------------------------------------------------------------------------- | ---------- |
 | 1    | Two Sum                                    | [C++](/Easy-Level/CPP-Solutions/Two-Sums.cpp)                               | Easy       |
 | 9    | Palindrome Number                          | [C++](/Easy-Level/CPP-Solutions/Palindrome-Number.cpp)                      | Easy       |
+| 13   | Roman To Integer                           | [C++](/Easy-Level/CPP-Solutions/Roman-To-Integer.cpp)                       | Easy       |
 | 21   | Merge Two Sorted Lists                     | [C++](/Easy-Level/CPP-Solutions/Merge-Two-Sorted-Lists.cpp)                 | Easy       |
 | 1203 | Design Parking System                      | [C++](/Easy-Level/CPP-Solutions/Design-Parking-System.cpp)                  | Easy       |
 | 1232 | Check If It Is a Straight Line             | [C++](/Easy-Level/CPP-Solutions/Check-If-It-Is-a-Straight-Line.cpp)         | Easy       |
