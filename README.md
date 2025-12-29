@@ -45,6 +45,7 @@ my knowledge and understanding.
 | 7    | Reverse Integer                                         | [C++](/Medium-Level/CPP-Solutions/Reverse-Integer.cpp)                                         | Medium     |
 | 8    | String to Integer (atoi)                                | [C++](/Medium-Level/CPP-Solutions/String-To-Integer.cpp)                                       | Medium     |
 | 11   | Container With Most Water                               | [C++](/Medium-Level/CPP-Solutions/Conteiner-With-Most-Water.cpp)                               | Medium     |
+| 15   | 3Sum                                                    | [C++](/Medium-Level/CPP-Solutions/3Sum.cpp)                                                    | Medium     |
 | 98   | Validate Binary Search Tree                             | [C++](/Medium-Level/CPP-Solutions/Validate-Binary-Search-Tree.cpp)                             | Medium     |
 | 135  | Copy List with Random Pointer                           | [C++](/Medium-Level/CPP-Solutions/Copy-List-With-Random-Pointer.cpp)                           | Medium     |
 | 785  | Is Graph Bipartite?                                     | [C++](/Medium-Level/CPP-Solutions/Is-Geaph-Bipartite.cpp)                                      | Medium     |
