@@ -48,6 +48,7 @@ my knowledge and understanding.
 | 15   | 3Sum                                                    | [C++](/Medium-Level/CPP-Solutions/3Sum.cpp)                                                    | Medium     |
 | 16   | 3Sum Closest                                            | [C++](/Medium-Level/CPP-Solutions/3Sum-Closest.cpp)                                            | Medium     |
 | 17   | Letter Combinations of a Phone Number                   | [C++](/Medium-Level/CPP-Solutions/Letter-Combinations-of-a-Phone-Number.cpp)                   | Medium     |
+| 18   | 4Sum                                                    | [C++](/Medium-Level/CPP-Solutions/4Sum.cpp)                                                    | Medium     |
 | 98   | Validate Binary Search Tree                             | [C++](/Medium-Level/CPP-Solutions/Validate-Binary-Search-Tree.cpp)                             | Medium     |
 | 135  | Copy List with Random Pointer                           | [C++](/Medium-Level/CPP-Solutions/Copy-List-With-Random-Pointer.cpp)                           | Medium     |
 | 785  | Is Graph Bipartite?                                     | [C++](/Medium-Level/CPP-Solutions/Is-Geaph-Bipartite.cpp)                                      | Medium     |
