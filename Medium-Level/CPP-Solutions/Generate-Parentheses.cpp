@@ -17,7 +17,6 @@ private:
         if(close < open) {
             text.push_back(')');
             groupGenerator(total, open, close + 1, text, groups);
-            text.pop_back();
         }
     }
 public:
