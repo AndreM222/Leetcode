@@ -33,6 +33,7 @@ my knowledge and understanding.
 | 4   | Median of Two Sorted Arrays | [C++](/Hard-Level/CPP-Solutions/Median-of-Two-Sorted-Arrays.cpp) | Hard       |
 | 10  | Regular Expression Matching | [C++](/Hard-Level/CPP-Solutions/regular-expression-matching.cpp) | Hard       |
 | 20  | Valid Parentheses           | [C++](/Hard-Level/CPP-Solutions/Valid-Parentheses.cpp)           | Hard       |
+| 23  | Merge k Sorted Lists        | [C++](/Hard-Level/CPP-Solutions/Merge-k-Sorted-Lists.cpp)        | Hard       |
 | 25  | Reverse Nodes in k-Group    | [C++](/Hard-Level/CPP-Solutions/Reverse-Nodes-in-k-Group.cpp)    | Hard       |
 
 ## Medium
