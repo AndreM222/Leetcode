@@ -53,6 +53,7 @@ my knowledge and understanding.
 | 18   | 4Sum                                                    | [C++](/Medium-Level/CPP-Solutions/4Sum.cpp)                                                    | Medium     |
 | 19   | Remove Nth Node From End of List                        | [C++](/Medium-Level/CPP-Solutions/Remove-Nth-Node-From-End-of-List.cpp)                        | Medium     |
 | 22   | Generate Parentheses                                    | [C++](/Medium-Level/CPP-Solutions/Add-Two-Numbers.cpp)                                         | Medium     |
+| 24   | Swap Nodes in Pairs                                     | [C++](/Medium-Level/CPP-Solutions/Swap-Nodes-in-Pairs.cpp)                                     | Medium     |
 | 98   | Validate Binary Search Tree                             | [C++](/Medium-Level/CPP-Solutions/Validate-Binary-Search-Tree.cpp)                             | Medium     |
 | 135  | Copy List with Random Pointer                           | [C++](/Medium-Level/CPP-Solutions/Copy-List-With-Random-Pointer.cpp)                           | Medium     |
 | 785  | Is Graph Bipartite?                                     | [C++](/Medium-Level/CPP-Solutions/Is-Geaph-Bipartite.cpp)                                      | Medium     |
