@@ -63,15 +63,16 @@ my knowledge and understanding.
 
 ## Easy
 
-| #    | Title                                      | Solutions                                                                   | Difficulty |
-| ---- | ------------------------------------------ | --------------------------------------------------------------------------- | ---------- |
-| 1    | Two Sum                                    | [C++](/Easy-Level/CPP-Solutions/Two-Sums.cpp)                               | Easy       |
-| 9    | Palindrome Number                          | [C++](/Easy-Level/CPP-Solutions/Palindrome-Number.cpp)                      | Easy       |
-| 13   | Roman To Integer                           | [C++](/Easy-Level/CPP-Solutions/Roman-To-Integer.cpp)                       | Easy       |
-| 14   | Longest Common Prefix                      | [C++](/Easy-Level/CPP-Solutions/Longest-Common-Prefix.cpp)                  | Easy       |
-| 21   | Merge Two Sorted Lists                     | [C++](/Easy-Level/CPP-Solutions/Merge-Two-Sorted-Lists.cpp)                 | Easy       |
-| 26   | Remove Duplicates from Sorted Array        | [C++](/Easy-Level/CPP-Solutions/Remove-Duplicates-from-Sorted-Array.cpp)    | Easy       |
-| 27   | Remove Element                             | [C++](/Easy-Level/CPP-Solutions/Remove-Element.cpp)                         | Easy       |
-| 1203 | Design Parking System                      | [C++](/Easy-Level/CPP-Solutions/Design-Parking-System.cpp)                  | Easy       |
-| 1232 | Check If It Is a Straight Line             | [C++](/Easy-Level/CPP-Solutions/Check-If-It-Is-a-Straight-Line.cpp)         | Easy       |
-| 2108 | Find First Palindromic String in the Array | [C++](/Easy-Level/CPP-Solutions/Find-First-Palindromic-String-In-Array.cpp) | Easy       |
+| #    | Title                                              | Solutions                                                                               | Difficulty |
+| ---- | -------------------------------------------------- | --------------------------------------------------------------------------------------- | ---------- |
+| 1    | Two Sum                                            | [C++](/Easy-Level/CPP-Solutions/Two-Sums.cpp)                                           | Easy       |
+| 9    | Palindrome Number                                  | [C++](/Easy-Level/CPP-Solutions/Palindrome-Number.cpp)                                  | Easy       |
+| 13   | Roman To Integer                                   | [C++](/Easy-Level/CPP-Solutions/Roman-To-Integer.cpp)                                   | Easy       |
+| 14   | Longest Common Prefix                              | [C++](/Easy-Level/CPP-Solutions/Longest-Common-Prefix.cpp)                              | Easy       |
+| 21   | Merge Two Sorted Lists                             | [C++](/Easy-Level/CPP-Solutions/Merge-Two-Sorted-Lists.cpp)                             | Easy       |
+| 26   | Remove Duplicates from Sorted Array                | [C++](/Easy-Level/CPP-Solutions/Remove-Duplicates-from-Sorted-Array.cpp)                | Easy       |
+| 27   | Remove Element                                     | [C++](/Easy-Level/CPP-Solutions/Remove-Element.cpp)                                     | Easy       |
+| 28   | Find the Index of the First Occurrence in a String | [C++](/Easy-Level/CPP-Solutions/Find-the-Index0of-the-First-Occurrence-in-a-String.cpp) | Easy       |
+| 1203 | Design Parking System                              | [C++](/Easy-Level/CPP-Solutions/Design-Parking-System.cpp)                              | Easy       |
+| 1232 | Check If It Is a Straight Line                     | [C++](/Easy-Level/CPP-Solutions/Check-If-It-Is-a-Straight-Line.cpp)                     | Easy       |
+| 2108 | Find First Palindromic String in the Array         | [C++](/Easy-Level/CPP-Solutions/Find-First-Palindromic-String-In-Array.cpp)             | Easy       |
