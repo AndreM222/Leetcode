@@ -56,6 +56,7 @@ my knowledge and understanding.
 | 22   | Generate Parentheses                                    | [C++](/Medium-Level/CPP-Solutions/Add-Two-Numbers.cpp)                                         | Medium     |
 | 24   | Swap Nodes in Pairs                                     | [C++](/Medium-Level/CPP-Solutions/Swap-Nodes-in-Pairs.cpp)                                     | Medium     |
 | 29   | Divide Two Integers                                     | [C++](/Medium-Level/CPP-Solutions/Divide-Two-Integers.cpp)                                     | Medium     |
+| 31   | Next Permutation                                        | [C++](/Medium-Level/CPP-Solutions/Next-Permutation.cpp)                                        | Medium     |
 | 98   | Validate Binary Search Tree                             | [C++](/Medium-Level/CPP-Solutions/Validate-Binary-Search-Tree.cpp)                             | Medium     |
 | 135  | Copy List with Random Pointer                           | [C++](/Medium-Level/CPP-Solutions/Copy-List-With-Random-Pointer.cpp)                           | Medium     |
 | 785  | Is Graph Bipartite?                                     | [C++](/Medium-Level/CPP-Solutions/Is-Geaph-Bipartite.cpp)                                      | Medium     |
