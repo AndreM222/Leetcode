@@ -24,6 +24,7 @@ my knowledge and understanding.
 - [Hard](#hard)
 - [Medium](#medium)
 - [Easy](#easy)
+
 <!--toc:end-->
 
 ## Hard
@@ -36,6 +37,7 @@ my knowledge and understanding.
 | 23  | Merge k Sorted Lists                      | [C++](/Hard-Level/CPP-Solutions/Merge-k-Sorted-Lists.cpp)                      | Hard       |
 | 25  | Reverse Nodes in k-Group                  | [C++](/Hard-Level/CPP-Solutions/Reverse-Nodes-in-k-Group.cpp)                  | Hard       |
 | 30  | Substring with Concatenation of All Words | [C++](/Hard-Level/CPP-Solutions/Substring-with-Concatenation-of-All-Words.cpp) | Hard       |
+| 32  | Longest Valid Parentheses                 | [C++](/Hard-Level/CPP-Solutions/Longest-Valid-Parentheses.cpp)                 | Hard       |
 
 ## Medium
 
