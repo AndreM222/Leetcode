@@ -80,6 +80,7 @@ my knowledge and understanding.
 | 26   | Remove Duplicates from Sorted Array                | [C++](/Easy-Level/CPP-Solutions/Remove-Duplicates-from-Sorted-Array.cpp)                | Easy       |
 | 27   | Remove Element                                     | [C++](/Easy-Level/CPP-Solutions/Remove-Element.cpp)                                     | Easy       |
 | 28   | Find the Index of the First Occurrence in a String | [C++](/Easy-Level/CPP-Solutions/Find-the-Index0of-the-First-Occurrence-in-a-String.cpp) | Easy       |
+| 35   | Search Insert Position                             | [C++](/Easy-Level/CPP-Solutions/Search-Insert-Position.cpp)                             | Easy       |
 | 1203 | Design Parking System                              | [C++](/Easy-Level/CPP-Solutions/Design-Parking-System.cpp)                              | Easy       |
 | 1232 | Check If It Is a Straight Line                     | [C++](/Easy-Level/CPP-Solutions/Check-If-It-Is-a-Straight-Line.cpp)                     | Easy       |
 | 2108 | Find First Palindromic String in the Array         | [C++](/Easy-Level/CPP-Solutions/Find-First-Palindromic-String-In-Array.cpp)             | Easy       |
