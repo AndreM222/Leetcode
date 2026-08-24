@@ -61,6 +61,7 @@ my knowledge and understanding.
 | 31   | Next Permutation                                        | [C++](/Medium-Level/CPP-Solutions/Next-Permutation.cpp)                                        | Medium     |
 | 33   | Search In Rotated Array                                 | [C++](/Medium-Level/CPP-Solutions/Search-In-Rotated-Array.cpp)                                 | Medium     |
 | 34   | Find First and Last Position of Element in Sorted Array | [C++](/Medium-Level/CPP-Solutions/Find-First-and-Last-Position-of-Element-in-Sorted-Array.cpp) | Medium     |
+| 36   | Valid Sudoku                                            | [C++](/Medium-Level/CPP-Solutions/Valid-Sudoku.cpp)                                            | Medium     |
 | 98   | Validate Binary Search Tree                             | [C++](/Medium-Level/CPP-Solutions/Validate-Binary-Search-Tree.cpp)                             | Medium     |
 | 135  | Copy List with Random Pointer                           | [C++](/Medium-Level/CPP-Solutions/Copy-List-With-Random-Pointer.cpp)                           | Medium     |
 | 785  | Is Graph Bipartite?                                     | [C++](/Medium-Level/CPP-Solutions/Is-Geaph-Bipartite.cpp)                                      | Medium     |
