@@ -1,0 +1,25 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">Leetcode <img width=\"50\" align=\"center\" justify=\"center\" src=\"doc/Leetcode-Icon.png\"></h1> <i>\"If you only do what you can do, you will never be more than who you are.\"</i>",
+  "homepage": "https://github.com/AndreM222/leetcode#readme",
+  "bugs": {
+    "url": "https://github.com/AndreM222/leetcode/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AndreM222/leetcode.git"
+  },
+  "license": "ISC",
+  "author": "Andre Mossi",
+  "type": "commonjs",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "prettier": "^3.9.10"
+  }
+}
