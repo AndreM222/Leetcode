@@ -40,7 +40,7 @@ my knowledge and understanding.
 | 25  | Reverse Nodes in k-Group                  | [C++](/Hard-Level/CPP-Solutions/Reverse-Nodes-in-k-Group.cpp)                  | Hard       |
 | 30  | Substring with Concatenation of All Words | [C++](/Hard-Level/CPP-Solutions/Substring-with-Concatenation-of-All-Words.cpp) | Hard       |
 | 32  | Longest Valid Parentheses                 | [C++](/Hard-Level/CPP-Solutions/Longest-Valid-Parentheses.cpp)                 | Hard       |
-| 37  | Sudoku Solver                             | [C++](/Hard-Level/CPP-Solutions/Sudoku-Solver.cpp)                             | Hard       |
+| 37  | Sudoku Solver                             | [C++](/Hard-Level/CPP-Solutions/37-Sudoku-Solver.cpp)                             | Hard       |
 
 ## Medium
 
