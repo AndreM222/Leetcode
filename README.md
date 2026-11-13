@@ -64,6 +64,7 @@ my knowledge and understanding.
 | 33   | Search In Rotated Array                                 | [C++](./Medium-Level/CPP-Solutions/33_Search-In-Rotated-Array.cpp)                                   | Medium     |
 | 34   | Find First and Last Position of Element in Sorted Array | [C++](./Medium-Level/CPP-Solutions/34_Find-First-and-Last-Position-of-Element-in-Sorted-Array.cpp)   | Medium     |
 | 36   | Valid Sudoku                                            | [C++](./Medium-Level/CPP-Solutions/36_Valid-Sudoku.cpp)                                              | Medium     |
+| 38   | Count and Say                                           | [C++](./Medium-Level/CPP-Solutions/38_Count-and-Say.cpp)                                             | Medium     |
 | 98   | Validate Binary Search Tree                             | [C++](./Medium-Level/CPP-Solutions/98_Validate-Binary-Search-Tree.cpp)                               | Medium     |
 | 135  | Copy List With Random Pointer                           | [C++](./Medium-Level/CPP-Solutions/135_Copy-List-With-Random-Pointer.cpp)                            | Medium     |
 | 785  | Is Geaph Bipartite                                      | [C++](./Medium-Level/CPP-Solutions/785_Is-Geaph-Bipartite.cpp)                                       | Medium     |
